@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: GPL-3.0-or-later
 
 const JOB_TYPE = {
-    label: "Animated Render Border v2",
+    label: "Animated Render Border",
     description: "Render a sequence of frames using Animated Render Border",
     settings: [
         // Settings for artists to determine:
